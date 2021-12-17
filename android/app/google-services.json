@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203076678801",
+    "firebase_url": "https://dscfuta-health-care-project.firebaseio.com",
+    "project_id": "dscfuta-health-care-project",
+    "storage_bucket": "dscfuta-health-care-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203076678801:android:f91f240922a4ea267f7b30",
+        "android_client_info": {
+          "package_name": "com.esonberg.liveeasy.live_easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203076678801-5podv433h4hv9fbimgq1moghg7s2bq8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0zeVaIFGI-p_n5CE5tyOuLkDGDKGnss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203076678801-5podv433h4hv9fbimgq1moghg7s2bq8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
